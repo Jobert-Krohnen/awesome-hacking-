@@ -143,6 +143,7 @@ Memory Forensics
 ----------------
 
 - `KeeFarce <https://github.com/denandz/KeeFarce>`_ - Extracts passwords from a KeePass 2.x database, directly from memory.
+- `MemProcFS <https://github.com/ufrisk/MemProcFS>`_ - An easy and convenient way of viewing physical memory as files in a virtual file system.
 - `Mquire <https://github.com/trailofbits/mquire>`_ - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - `Rekall <http://www.rekall-forensic.com>`_ - Memory analysis framework developed by Google.
 - `Volatility <https://github.com/volatilityfoundation/volatility3>`_ - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibility into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research.

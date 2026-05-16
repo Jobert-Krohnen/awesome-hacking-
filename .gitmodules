@@ -2704,3 +2704,6 @@
 [submodule "Malware/Source Code/gopher"]
 	path = Malware/Source Code/gopher
 	url = https://github.com/gdbinit/gopher.git
+[submodule "Forensics/Memory Forensics/MemProcFS"]
+	path = Forensics/Memory Forensics/MemProcFS
+	url = https://github.com/ufrisk/MemProcFS.git
